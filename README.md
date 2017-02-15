@@ -14,6 +14,8 @@ il faut récupérer le programme dans le chapitre du livre.
 * exécuter 
 
       python
- toto="tata"
- i=1
+toto="tata"
+i=1
+
+
 
